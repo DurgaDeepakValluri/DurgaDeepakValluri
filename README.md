@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking for opportunities to grow as an Engineer with a Data Driven Approach especially in Robotics and AI
 
-- 🎓 Masters in Data Science and Analytics from [**New England College**]((https://www.nec.edu/))
+- 🎓 Masters in Data Science and Analytics from [**New England College**](https://www.nec.edu/)
   
 - 🎓 Masters in Mechanical Engineering from [**University of Texas at Arlington**](https://www.uta.edu/)
   
