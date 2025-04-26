@@ -4,7 +4,7 @@
 <img width=50% " src="https://media1.tenor.com/m/5hKPyupKGWMAAAAC/robot-hello.gif" alt="GIF here" /></p>
 
 
-- 🤝 I’m looking for opportunities to grow as an Engineer and Researcher with a Data Driven Approach in Robotics and AI
+- 🤝 I’m looking for opportunities to grow as an Engineer and Researcher with innovative approaches in Robotics and AI
 
 - 🎓 Masters in Data Science and Analytics from [**New England College**](https://www.nec.edu/)
   
